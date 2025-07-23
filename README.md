@@ -1,10 +1,18 @@
-## 个人主页
 
-基于Vue的个人主页，刚接触Vue不太会用各种插件，代码有点难看，大佬们见谅
+作者：https://github.com/solaireh3/home-vue/
 
-### Demo
 
-- [预览](https://bsgun.cn)
+这里是直接搬运的
+
+
+
+
+
+
+
+
+
+
 
 ### 修改
 
